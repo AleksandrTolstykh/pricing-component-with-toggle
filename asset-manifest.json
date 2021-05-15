@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/pricing-component-with-toggle/static/js/main.12d5ab57.chunk.js",
+    "main.js.map": "/pricing-component-with-toggle/static/js/main.12d5ab57.chunk.js.map",
+    "runtime-main.js": "/pricing-component-with-toggle/static/js/runtime-main.9b72516a.js",
+    "runtime-main.js.map": "/pricing-component-with-toggle/static/js/runtime-main.9b72516a.js.map",
+    "static/js/2.95fb285e.chunk.js": "/pricing-component-with-toggle/static/js/2.95fb285e.chunk.js",
+    "static/js/2.95fb285e.chunk.js.map": "/pricing-component-with-toggle/static/js/2.95fb285e.chunk.js.map",
+    "index.html": "/pricing-component-with-toggle/index.html",
+    "static/js/2.95fb285e.chunk.js.LICENSE.txt": "/pricing-component-with-toggle/static/js/2.95fb285e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b72516a.js",
+    "static/js/2.95fb285e.chunk.js",
+    "static/js/main.12d5ab57.chunk.js"
+  ]
+}
